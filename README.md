@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **kalsariyapavan707@gmail.com**
 
-- 📄 Know about my experiences [I've worked on various projects ranging from machine learning applications to hardware prototyping. My expertise lies in Python programming, HTML/CSS web development, and Arduino programming.](I've worked on various projects ranging from machine learning applications to hardware prototyping. My expertise lies in Python programming, HTML/CSS web development, and Arduino programming.)
+- 📄 Know about my experiences [I've worked on various projects ranging from machine learning applications to hardware prototyping. My expertise lies in Python programming, HTML/CSS web development, and Arduino programming.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
