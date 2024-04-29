@@ -3,9 +3,9 @@
 
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=15&duration=3500&pause=2000&color=3CA45F&center=true&random=false&width=500&height=60&lines=++++++++++++++++Passionate+devloper+form+india" alt="Typing SVG" /></a></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pxvn&label=Profile%20views&color=0e75b6&style=flat" alt="pxvn" /> </p>
 
-<p align="left"> <a href="https://twitter.com/pavann_ce" target="blank"><img src="https://img.shields.io/twitter/follow/me?logo=twitter&style=for-the-badge" alt="pxvn" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pxvn&label=Profile%20views&color=0e75b6&style=flat" alt="pxvn" /> </p>
 
 <h1> 🚀 What I’m Up To: </h1>
 <h2>🔭 Currently working on</h2>
