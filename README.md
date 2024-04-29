@@ -69,23 +69,8 @@
 
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pxvn&" alt="pxvn" /></p>
 </div>
-
-
-
 pxvn/pxvn, a ✨ special ✨ repository 
 
-Abhi kyahal chal bahi ban gaya jo banna tha? Ho raha hai jese socha tha? if no then.. Kyu kya hua? 🤔
-
-Coding mein kabhi kabhi thode se ups and downs toh hote hi hai! Par tension na lo, yeh sab part hai coding journey ka! 😄
-
-So, let's dive in, dekhte hai kitni progress ho rahi hai coding mein! 🌟
-
-At currently to me bs ye repo update krra tha or thode projects pe bhi kam kiy.. haah par abhi tak koi apriciation nai mila...
-koi na I hope future mai milhui jayenga kuch na kuch to.
-
-But You know you are not working for this rewards and all its your passion you do this things for yourself.
-
 29.4.24
-
 --->
  
