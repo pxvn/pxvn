@@ -1,33 +1,44 @@
-
 ![image](https://github.com/pxvn/pxvn/assets/161462414/cb8917b8-f6ca-49b0-aa74-45ba52aa9d72)
 
-
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=15&duration=3500&pause=2000&color=3CA45F&center=true&random=false&width=500&height=60&lines=++++++++++++++++Passionate+devloper+form+india" alt="Typing SVG" /></a></p>
-
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=15&duration=3500&pause=2000&color=3CA45F&center=true&random=false&width=500&height=60&lines=++++++++++++++++Passionate+devloper+form+india" alt="Typing SVG" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pxvn&label=Profile%20views&color=0e75b6&style=flat" alt="pxvn" /> </p>
 
-<h1> 🚀 What I’m Up To: </h1>
-<h2>🔭 Currently working on</h2>
-OpenCV  and implementing projects<br>
-Building cool projects with Arduino and  other IOT devlopment boards<br>
+# 🚀 What I’m Up To:
 
-<H2>👯 Let’s Collaborate</H2>
-<H4>I’m open to collaborating on:</H4>
+## 🔭 Currently working on
+- OpenCV and implementing projects
+- Building cool projects with Arduino and other IoT development boards
 
-Machine learning projects<BR>
-Edge computing and IoT initiatives<BR>
-Open-source projects related to IOT, embedded systems, or hardware development<BR>
+## 👯 Let’s Collaborate
+### I’m open to collaborating on:
+- Machine learning projects
+- Edge computing and IoT initiatives
+- Open-source projects related to IoT, embedded systems, or hardware development
 
-<H2>🤝 Seeking Help</H2>
-<H4>I’d appreciate assistance with:</H4>
-Improving my skills in COMPUTER VISION and machine learning deployment<BR>
-Understanding advanced concepts in Arduino programming and hardware interfacing<BR>
+## 🤝 Seeking Help
+### I’d appreciate assistance with:
+- Improving my skills in computer vision and machine learning deployment
+- Understanding advanced concepts in Arduino programming and hardware interfacing
 
-<H2>💬 Let’s Connect</H2>
-<p align="left">
+## 💬 Let’s Connect
+
 <p align="center">
- 
+  <a href="https://github.com/pxvn">
+    <img src="https://img.shields.io/github/followers/pxvn?style=social" alt="GitHub followers">
+  </a>
+  <a href="https://twitter.com/pxvn">
+    <img src="https://img.shields.io/twitter/follow/pxvn?style=social" alt="Twitter Follow">
+  </a>
+</p>
+
+<!-- Add Animated GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="OpenCV Projects" />
+</p>
+
+
+<p align="center">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/>
   </a>
@@ -51,13 +62,30 @@ Understanding advanced concepts in Arduino programming and hardware interfacing<
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pxvn&show_icons=true&locale=en&layout=compact" alt="pxvn" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pxvn&show_icons=true&locale=en" alt="pxvn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pxvn&" alt="pxvn" /></p>
-
-
 <!---
-pxvn/pxvn is a ✨ special ✨ repository or kyahal chal bahi ban gaya jo banna tha? ho raha hai jese socha tha? kyui kya hua?
+
+<div style="text-align: center;">
+    <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pxvn&show_icons=true&locale=en" alt="pxvn" /></p>
+
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pxvn&" alt="pxvn" /></p>
+</div>
+
+
+
+pxvn/pxvn, a ✨ special ✨ repository 
+
+Abhi kyahal chal bahi ban gaya jo banna tha? Ho raha hai jese socha tha? if no then.. Kyu kya hua? 🤔
+
+Coding mein kabhi kabhi thode se ups and downs toh hote hi hai! Par tension na lo, yeh sab part hai coding journey ka! 😄
+
+So, let's dive in, dekhte hai kitni progress ho rahi hai coding mein! 🌟
+
+At currently to me bs ye repo update krra tha or thode projects pe bhi kam kiy.. haah par abhi tak koi apriciation nai mila...
+koi na I hope future mai milhui jayenga kuch na kuch to.
+
+But You know you are not working for this rewards and all its your passion you do this things for yourself.
+
+29.4.24
+
 --->
+ 
