@@ -65,8 +65,7 @@
 <!---
 
 <div style="text-align: center;">
-    <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pxvn&show_icons=true&locale=en" alt="pxvn" /></p>
-
+ 
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pxvn&" alt="pxvn" /></p>
 </div>
 pxvn/pxvn, a ✨ special ✨ repository 
