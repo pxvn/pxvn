@@ -32,10 +32,6 @@
   </a>
 </p>
 
-<!-- Add Animated GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="OpenCV Projects" />
-</p>
 
 
 <p align="center">
