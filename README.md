@@ -10,7 +10,6 @@
 - OpenCV and implementing projects
 - Building cool projects with Arduino and other IoT development boards
 
-## 👯 Let’s Collaborate
 ### I’m open to collaborating on:
 - Machine learning projects
 - Edge computing and IoT initiatives
