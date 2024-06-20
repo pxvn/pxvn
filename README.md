@@ -15,12 +15,12 @@
 - Edge computing and IoT initiatives
 - Open-source projects related to IoT, embedded systems, or hardware development
 
-## 🤝 Seeking Help
+##
 ### I’d appreciate assistance with:
 - Improving my skills in computer vision and machine learning deployment
 - Understanding advanced concepts in Arduino programming and hardware interfacing
 
-## 💬 Let’s Connect
+## 
 
 <p align="center">
   <a href="https://github.com/pxvn">
