@@ -13,5 +13,4 @@ OpenCV | Arduino | IoT
   
 ## 📫 Let's Connect
 
-- **GitHub:** [https://github.com/pxvn](https://github.com/pxvn)
 - **LinkedIn:** [@pxvn_ce](https://www.linkedin.com/in/pxvn)
