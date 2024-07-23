@@ -1,19 +1,17 @@
 ![Your Banner Image](https://github.com/pxvn/pxvn/assets/161462414/cb8917b8-f6ca-49b0-aa74-45ba52aa9d72)
 
-<h1 align="center">PAVAN K.</h1>
-
+<h1 align="center">Hi, I'm Pavan K.</h1>
 <p align="center">
-  Developer from India | OpenCV | Arduino | IoT
-</p>
+OpenCV | Arduino | IoT
 
-[![Profile Views](https://komarev.com/ghpvc/?username=pxvn&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/pxvn)
 
-## 🌱 I'm Currently Exploring
+## 🌱 Currently Exploring
 
-- Computer Vision with OpenCV
-- Arduino Projects & IoT Development
-
+- Embedded Systems and IoT Devlopment
+- Developing solutions for IoT applications
+- Computer Vision and Image Processing
+  
 ## 📫 Let's Connect
 
 - **GitHub:** [https://github.com/pxvn](https://github.com/pxvn)
-- **Twitter:** [@pxvn_ce](https://twitter.com/pxvn_ce)
+- **LinkedIn:** [@pxvn_ce](https://www.linkedin.com/in/pxvn)
