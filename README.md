@@ -6,14 +6,10 @@ Engg. Student | Maker
 
 ## 🌱 Currently Exploring
 
-- Embedded Systems and IoT Devlopment
-- Developing solutions for IoT applications
+- Embedded Systems & IoT Development – Prototyping IoT applications and custom electronics solutions
+- Innovative Prototyping – Experimenting with sensor integration, rovers, and underwater robotics
 - Computer Vision and Image Processing
 
-## ⚡ Current Focus
-- Embedded Systems & IoT Development – Prototyping IoT applications and custom electronics solutions
-- Computer Vision & Image Processing – Integrating vision with real-world robotics
-- Innovative Prototyping – Experimenting with sensor integration, autonomous rovers, and underwater robotics
   
 ## 📫 Let's Connect
 
