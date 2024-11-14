@@ -2,14 +2,18 @@
 
 <h1 align="center">Hi, I'm Pavan K.</h1>
 <p align="center">
-OpenCV | Arduino | IoT
-
+Engg. Student | Maker
 
 ## 🌱 Currently Exploring
 
 - Embedded Systems and IoT Devlopment
 - Developing solutions for IoT applications
 - Computer Vision and Image Processing
+
+## ⚡ Current Focus
+- Embedded Systems & IoT Development – Prototyping IoT applications and custom electronics solutions
+- Computer Vision & Image Processing – Integrating vision with real-world robotics
+- Innovative Prototyping – Experimenting with sensor integration, autonomous rovers, and underwater robotics
   
 ## 📫 Let's Connect
 
