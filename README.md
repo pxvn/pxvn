@@ -11,7 +11,7 @@
 ## <p align="center">  IoT Development | Robotics Projects | Embedded Systems | Maker </p>
 
 
-## 👨‍💻 About Me
+##
 
 ```cpp
 // profile.ino
